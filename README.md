@@ -12,7 +12,7 @@
 
 ## Let’s Connect!
 
-- 💬 I’d love to chat—find me on [LinkedIn](https://www.linkedin.com/in/keanedylany) and let’s geek out over data and AI!
+- 💬 I’d love to chat—find me on [LinkedIn](https://www.linkedin.com/in/keanedylany)!
 
 ## My Tech Toolbox
 

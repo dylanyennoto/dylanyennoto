@@ -2,6 +2,8 @@
 
 ## A Bit About Me
 
+- 🇭🇰 Based on Hong Kong, 🇮🇩 Born in Indonesia
+- Hobbies: 🎥 🏋️ 🧑🏻‍💻 🎮
 - 🎓 Wrapping up my final year in Data Science at City University of Hong Kong—almost ready to conquer the world of data!
 - 💡 I’m passionate about harnessing AI and machine learning to tackle real-world challenges with a sprinkle of creativity.
 

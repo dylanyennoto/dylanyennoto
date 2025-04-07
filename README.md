@@ -1,20 +1,20 @@
-# Hi 👋, I'm Dylan
+# Hey There 👋, I'm Dylan!
 
-## About Me
+## A Bit About Me
 
-- 🎓 Final Year Data Science at City University of Hong Kong.
-- 💡 I'm interested in applying AI and machine learning to solve real-world problems.
+- 🎓 Wrapping up my final year in Data Science at City University of Hong Kong—almost ready to conquer the world of data!
+- 💡 I’m passionate about harnessing AI and machine learning to tackle real-world challenges with a sprinkle of creativity.
 
-## What You'll Find Here
+## What’s Cooking Here
 
-- 📊 **Data Science and Machine Learning Projects**: I love to dive into data and extract insights or build predictive models.
-- 🤖 **AI Implementations**: Exploring creative ways to apply AI.
+- 📊 **Data Science & Machine Learning Adventures**: I’m all about diving deep into data, uncovering hidden gems, and crafting predictive models that make you go "Wow!"
+- 🤖 **AI Explorations**: Experimenting with fun and innovative ways to bring AI into the spotlight.
 
-## Get in Touch
+## Let’s Connect!
 
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com).
+- 💬 I’d love to chat—find me on [LinkedIn](https://www.linkedin.com/in/keanedylany) and let’s geek out over data and AI!
 
-## Languages and Tools
+## My Tech Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)

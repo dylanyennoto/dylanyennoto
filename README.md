@@ -4,17 +4,18 @@
 
 - 🇭🇰 Based on Hong Kong, 🇮🇩 Born in Indonesia
 - Hobbies: 🎥 🏋️ 🧑🏻‍💻 🎮
-- 🎓 Wrapping up my final year in Data Science at City University of Hong Kong—almost ready to conquer the world of data!
-- 💡 I’m passionate about harnessing AI and machine learning to tackle real-world challenges with a sprinkle of creativity.
+- 🎓 Wrapping up my final year in Data Science at City University of Hong Kong.
+- 💡 I’m passionate about learning AI and machine learning to tackle real-world challenges.
+- 🦾 Optimization is my Game, love streamlining manual work through technology.
 
 ## What’s Cooking Here
 
-- 📊 **Data Science & Machine Learning Adventures**: I’m all about diving deep into data, uncovering hidden gems, and crafting predictive models that make you go "Wow!"
-- 🤖 **AI Explorations**: Experimenting with fun and innovative ways to bring AI into the spotlight.
+- 📊 **Data Science & Machine Learning Adventures**
+- 🤖 **AI Explorations**
 
 ## Let’s Connect!
 
-- 💬 I’d love to chat—find me on [LinkedIn](https://www.linkedin.com/in/keanedylany)!
+- 💬 I’d love to chat, find me on [LinkedIn](https://www.linkedin.com/in/keanedylany)!
 
 ## My Tech Toolbox
 
